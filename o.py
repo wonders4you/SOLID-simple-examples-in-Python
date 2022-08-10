@@ -1,4 +1,4 @@
-# SOLID part 2 S%O%LID
+# SOLID part 2 S_O_LID
 # 
 # O Open/closed principle
 

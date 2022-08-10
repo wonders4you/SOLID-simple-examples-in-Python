@@ -1,4 +1,4 @@
-# SOLID cz. 5 SOLI%D%
+# SOLID cz. 5 SOLI_D_
 # 
 # D - Dependency inversion principle
 

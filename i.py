@@ -1,4 +1,4 @@
-# SOLID cz. 4 SOL%I%D
+# SOLID cz. 4 SOL_I_D
 # 
 # I - interface segregation principle
 

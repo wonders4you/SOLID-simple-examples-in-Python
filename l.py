@@ -1,4 +1,4 @@
-# SOLID part 3 SO%L%ID
+# SOLID part 3 SO_L_ID
 # 
 # L - Liskov substitution principle
 

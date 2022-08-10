@@ -1,4 +1,4 @@
-# SOLID part %S%OLID
+# SOLID part _S_OLID
 # 
 # L - Single-responsibility principle 
 
